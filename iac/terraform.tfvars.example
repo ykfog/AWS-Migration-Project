@@ -1,0 +1,7 @@
+# Copy this file to terraform.tfvars and fill in a real value.
+# terraform.tfvars is git-ignored — the password must NEVER be committed.
+
+db_password   = "CHANGE_ME_use_a_strong_password"
+s3_bucket_name = "mmu-assignment2-storage-grp1-251uc25143"  # make this globally unique
+# multi_az    = true
+# enable_waf  = true
